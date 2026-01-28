@@ -3,7 +3,7 @@
 
 
 <details>
-<summary> ### 1. 프로젝트 개요 (Overview)</summary>
+<summary> 1. 프로젝트 개요 (Overview)</summary>
 
 • 프로젝트 명: 한 줄로 핵심 요약
 
@@ -13,23 +13,19 @@
 
 • 목표 (Goal): 무엇을 해결하기 위한 분석인가? 
 </details>
-### 1. 프로젝트 개요 (Overview)
 
-• 프로젝트 명: 한 줄로 핵심 요약
+<details>               
 
-• 기간: YYYY.MM.DD ~ YYYY.MM.DD
-
-• 핵심 도구: Python, SQL, BigQuery, Tableau 등
-
-• 목표 (Goal): 무엇을 해결하기 위한 분석인가?
-
-### 2. 가설 설정 (Hypothesis)
-
+<summary> 2. 가설 설정 (Hypothesis) </summary> 
+ 
 • 현상 파악 및 문제 정의
 
 • 데이터 분석을 통해 증명하고자 하는 가설 1, 2, 3
 
-### 3. 데이터 로드 및 전처리 (EDA & Preprocessing)
+</details>
+
+<details>      
+<summary> 3. 데이터 로드 및 전처리 (EDA & Preprocessing)</summary>
 
 • 데이터 출처: 링크 또는 파일 설명
 
@@ -37,13 +33,19 @@
 
 • 주요 시각화: 분석의 실마리가 된 차트 첨부
 
-### 4. 모델링 및 분석 (Modeling & Analysis)
+</detalis>
+
+<details> 
+<summary>4. 모델링 및 분석 (Modeling & Analysis) </summary>
 
 • 사용 알고리즘 및 분석 방법론
 
 • 수행 과정 중의 시행착오 (Troubleshooting)
 
-### 5. 결과 및 비즈니스 인사이트 (Conclusion)
+</details>
+
+<details>
+<summary> 5. 결과 및 비즈니스 인사이트 (Conclusion) </summary>
 
 • 핵심 요약: 분석 결과가 비즈니스에 주는 의미
 
@@ -51,8 +53,12 @@
 
 • 제언: 다음 단계로 무엇을 제안할 것인가?
 
-### 6. 회고 (Retrospective)
+</details>
+
+<details>
+<summary> 6. 회고 (Retrospective)</summary>
 
 • 잘한 점 / 아쉬운 점
 
 • 새롭게 배운 기술이나 개념
+</details>
