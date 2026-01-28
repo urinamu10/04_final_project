@@ -2,7 +2,17 @@
 최종 프로젝트 깃허브
 
 
+<details>
+<summary> ### 1. 프로젝트 개요 (Overview)</summary>
 
+• 프로젝트 명: 한 줄로 핵심 요약
+
+• 기간: YYYY.MM.DD ~ YYYY.MM.DD
+
+• 핵심 도구: Python, SQL, BigQuery, Tableau 등
+
+• 목표 (Goal): 무엇을 해결하기 위한 분석인가? 
+</details>
 ### 1. 프로젝트 개요 (Overview)
 
 • 프로젝트 명: 한 줄로 핵심 요약
