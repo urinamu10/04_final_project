@@ -25,7 +25,7 @@
 </details>
 
 <details>      
-<summary> 3. 데이터 로드 및 전처리 (EDA & Preprocessing)</summary>
+<summary> 3. 데이터 로드 및 전처리 (EDA & Preprocessing) </summary>
 
 • 데이터 출처: 링크 또는 파일 설명
 
@@ -36,7 +36,7 @@
 </detalis>
 
 <details> 
-<summary>4. 모델링 및 분석 (Modeling & Analysis) </summary>
+<summary> 4. 모델링 및 분석 (Modeling & Analysis) </summary>
 
 • 사용 알고리즘 및 분석 방법론
 
