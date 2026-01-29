@@ -7,7 +7,7 @@
 
 • 프로젝트 명: 한 줄로 핵심 요약
 
-• 기간: YYYY.MM.DD ~ YYYY.MM.DD
+• 기간: 2026.02.02 ~ 2026.03.13
 
 • 핵심 도구: Python, SQL, BigQuery, Tableau 등
 
