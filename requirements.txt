@@ -1,0 +1,16 @@
+# 데이터 분석 필수
+pandas
+numpy
+matplotlib
+seaborn
+
+# 주피터 노트북 연결용 (필수)
+ipykernel
+
+# 머신러닝 및 수치 계산
+scikit-learn
+scipy
+
+# 기타 유용한 도구
+tqdm
+openpyxl
